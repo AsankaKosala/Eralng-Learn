@@ -1,0 +1,5 @@
+{release, 
+    {"my_app", "1.0.0"}, 
+        [kernel, 
+        stdlib, 
+        my_app]}. 
